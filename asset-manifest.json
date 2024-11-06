@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-github-actions/static/css/main.3e183aab.css",
+    "main.js": "/todo-github-actions/static/js/main.d0d1ecc3.js",
+    "index.html": "/todo-github-actions/index.html",
+    "main.3e183aab.css.map": "/todo-github-actions/static/css/main.3e183aab.css.map",
+    "main.d0d1ecc3.js.map": "/todo-github-actions/static/js/main.d0d1ecc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e183aab.css",
+    "static/js/main.d0d1ecc3.js"
+  ]
+}
